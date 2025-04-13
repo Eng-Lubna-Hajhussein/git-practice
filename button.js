@@ -1,1 +1,1 @@
-console.log("button2")
+const button = "some value"
